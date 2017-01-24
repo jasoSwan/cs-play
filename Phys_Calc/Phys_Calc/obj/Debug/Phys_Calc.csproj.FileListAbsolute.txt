@@ -1,0 +1,9 @@
+C:\Users\jasonsw\Downloads\Work\Learning C#\Phys_Calc\Phys_Calc\bin\Debug\Phys_Calc.exe.config
+C:\Users\jasonsw\Downloads\Work\Learning C#\Phys_Calc\Phys_Calc\bin\Debug\Phys_Calc.exe
+C:\Users\jasonsw\Downloads\Work\Learning C#\Phys_Calc\Phys_Calc\bin\Debug\Phys_Calc.pdb
+C:\Users\jasonsw\Downloads\Work\Learning C#\Phys_Calc\Phys_Calc\obj\Debug\Phys_Calc.csprojResolveAssemblyReference.cache
+C:\Users\jasonsw\Downloads\Work\Learning C#\Phys_Calc\Phys_Calc\obj\Debug\Phys_Calc.exe
+C:\Users\jasonsw\Downloads\Work\Learning C#\Phys_Calc\Phys_Calc\obj\Debug\Phys_Calc.pdb
+C:\Users\jasonsw\Downloads\Work\Learning C#\Phys_Calc\Phys_Calc\bin\Debug\NCalc.dll
+C:\Users\jasonsw\Downloads\Work\Learning C#\Phys_Calc\Phys_Calc\bin\Debug\Phys_Calc.exe.CodeAnalysisLog.xml
+C:\Users\jasonsw\Downloads\Work\Learning C#\Phys_Calc\Phys_Calc\bin\Debug\Phys_Calc.exe.lastcodeanalysissucceeded
